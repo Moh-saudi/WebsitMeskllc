@@ -119,6 +119,7 @@ i18n
           footerContactAddress:
             "Doha, Qatar, Qatar Financial Centre, 9th Floor",
           footerRights: "© {{year}} Mesk Holding. All rights reserved.",
+          poweredBy: "Powered by PayTechEG For Mesk Holding",
           featureNotImplementedTitle: "🚧 Feature Not Yet Implemented",
           featureNotImplementedDesc:
             "This functionality is currently under development. Please feel free to request it in your subsequent prompt! 🚀",
@@ -576,6 +577,7 @@ i18n
           footerContactPhone: "+974 72053188",
           footerContactAddress: "الدوحة ، قطر, مركز قطر للمال الدور التاسع",
           footerRights: "© {{year}} ميسك القابضة. جميع الحقوق محفوظة.",
+          poweredBy: "مُشغل بواسطة PayTechEG لشركة ميسك القابضة",
           featureNotImplementedTitle: "🚧 هذه الميزة غير مطبقة بعد",
           featureNotImplementedDesc:
             "لا تقلق! يمكنك طلبها في رسالتك التالية! 🚀",

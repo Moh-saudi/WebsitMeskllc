@@ -281,6 +281,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 text-sm">
           <p>{t("footerRights", { year: new Date().getFullYear() })}</p>
+          <p className="mt-2 text-xs opacity-75">{t("poweredBy")}</p>
         </div>
       </div>
     </footer>
