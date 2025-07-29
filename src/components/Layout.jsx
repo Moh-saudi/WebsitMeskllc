@@ -281,6 +281,26 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400 text-sm">
           <p>{t("footerRights", { year: new Date().getFullYear() })}</p>
+          <p className="mt-2 text-sm text-gray-400">
+            Powered by{" "}
+            <a
+              href="https://paytecheg.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-purple-400 hover:text-purple-300 transition-colors"
+            >
+              Paytecheg
+            </a>{" "}
+            for{" "}
+            <a
+              href="https://meskllc.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-purple-400 hover:text-purple-300 transition-colors"
+            >
+              MeskLLC
+            </a>
+          </p>
         </div>
       </div>
     </footer>
